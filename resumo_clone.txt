@@ -1,0 +1,1 @@
+o comando "git clone [url]" baixa todo o repositório em uma pasta. O comando "git pull" baixa apenas os arquivos do repositório que não estão na pasta
