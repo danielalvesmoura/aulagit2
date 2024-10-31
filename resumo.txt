@@ -1,0 +1,2 @@
+Na aula passada, aprendemos que o git é um sistema de controle de versões distribuído, na qual registra mudanças feitas nos arquivos e permite reverter essas mudanças, facilitando o trabalho em equipe durante o desenvolvimento de um projeto.
+
