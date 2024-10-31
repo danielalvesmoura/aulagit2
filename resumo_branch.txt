@@ -1,0 +1,1 @@
+branches são ramificações do projeto que podem ou não ser adicionadas no projeto principal
