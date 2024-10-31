@@ -3,3 +3,5 @@ Na aula passada, aprendemos que o git é um sistema de controle de versões dist
 Depois, aprendemos que git hub é uma plataforma de hospedagem de repositórios utilizando o Git como ferramenta. Após, a criar repositórios pelo site oficial do GitHub e criamos um readme usando uma plataforma especializada. 
 
 Instalamos o Git nos computadores. Iniciamos um git bash escrevemos os comandos "git config --global user.name" e "git config --global user.email" para definir a conta usada no git bash.
+
+"Git add" sinaliza quais arquivos vão ser adicionados ao commit criado pelo comando "git commit"
