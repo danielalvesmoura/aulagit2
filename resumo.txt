@@ -1,3 +1,6 @@
 Na aula passada, aprendemos que o git é um sistema de controle de versões distribuído, na qual registra mudanças feitas nos arquivos e permite reverter essas mudanças, facilitando o trabalho em equipe durante o desenvolvimento de um projeto.
 
 Depois, aprendemos que git hub é uma plataforma de hospedagem de repositórios utilizando o Git como ferramenta. Após, a criar repositórios pelo site oficial do GitHub e criamos um readme usando uma plataforma especializada. 
+
+asdfsafsadfasdfasefsasdfsadf
+asdfasdfasfsdafsdasasf 
